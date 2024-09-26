@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bone_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c224fd2226d56addda6b1988f7bb1a6b8485012")]
 [assembly: System.Reflection.AssemblyProductAttribute("bone_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bone_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
