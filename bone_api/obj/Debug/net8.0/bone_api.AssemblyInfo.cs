@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bone_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edc329c8abf0732d4782a49a5bb6e7dbd5356304")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d4206a77ac3bac4f3c5fe293d9a67ca69039dcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("bone_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bone_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
