@@ -1,3 +1,4 @@
+using bone_api.Authentication;
 using bone_api.Middlewares.bone_api.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+builder.Services.AddScoped<ApiKeyAuthenticationFilter>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -20,7 +23,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseMiddleware<ApiKeyMiddleware>();
+//app.UseMiddleware<ApiKeyMiddleware>();
 app.UseAuthorization();
 
 app.MapControllers();

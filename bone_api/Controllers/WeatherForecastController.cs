@@ -1,9 +1,11 @@
+using bone_api.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
 namespace bone_api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [ServiceFilter(typeof(ApiKeyAuthenticationFilter))]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
