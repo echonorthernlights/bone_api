@@ -30,3 +30,4 @@ C:\Users\elhas\source\repos\bone_api\bone_api\obj\Debug\net8.0\refint\bone_api.d
 C:\Users\elhas\source\repos\bone_api\bone_api\obj\Debug\net8.0\bone_api.pdb
 C:\Users\elhas\source\repos\bone_api\bone_api\obj\Debug\net8.0\bone_api.genruntimeconfig.cache
 C:\Users\elhas\source\repos\bone_api\bone_api\obj\Debug\net8.0\ref\bone_api.dll
+C:\Users\elhas\source\repos\bone_api\bone_api\obj\Debug\net8.0\bone_api.sourcelink.json
