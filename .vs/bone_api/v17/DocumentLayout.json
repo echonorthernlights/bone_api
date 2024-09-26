@@ -7,16 +7,19 @@
       "RelativeMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|solutionrelative:bone_api\\middlewares\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|c:\\users\\elhas\\source\\repos\\bone_api\\bone_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|solutionrelative:bone_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elhas\\AppData\\Local\\SourceServer\\a2e4e584e03303f4fdb25413be5ca6469243a7e2226f4ad8090583c02351b10c\\bone_api\\Middlewares\\ApiKeyMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|c:\\users\\elhas\\source\\repos\\bone_api\\bone_api\\authentication\\authconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|solutionrelative:bone_api\\authentication\\authconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|c:\\users\\elhas\\source\\repos\\bone_api\\bone_api\\bone_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|solutionrelative:bone_api\\bone_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|c:\\users\\elhas\\source\\repos\\bone_api\\bone_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|solutionrelative:bone_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD7EA8BE-058A-459A-86F3-AFC591B4FAAF}|bone_api\\bone_api.csproj|c:\\users\\elhas\\source\\repos\\bone_api\\bone_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +37,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 233,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\elhas\\AppData\\Local\\SourceServer\\a2e4e584e03303f4fdb25413be5ca6469243a7e2226f4ad8090583c02351b10c\\bone_api\\Middlewares\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\a2e4e584e03303f4fdb25413be5ca6469243a7e2226f4ad8090583c02351b10c\\bone_api\\Middlewares\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\elhas\\AppData\\Local\\SourceServer\\a2e4e584e03303f4fdb25413be5ca6469243a7e2226f4ad8090583c02351b10c\\bone_api\\Middlewares\\ApiKeyMiddleware.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\a2e4e584e03303f4fdb25413be5ca6469243a7e2226f4ad8090583c02351b10c\\bone_api\\Middlewares\\ApiKeyMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:55:55.643Z",
+              "EditorCaption": " [Read Only]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,14 +60,14 @@
               "RelativeDocumentMoniker": "bone_api\\Middlewares\\ApiKeyMiddleware.cs",
               "ToolTip": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\Middlewares\\ApiKeyMiddleware.cs",
               "RelativeToolTip": "bone_api\\Middlewares\\ApiKeyMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T11:51:05.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthConfig.cs",
               "DocumentMoniker": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\Authentication\\AuthConfig.cs",
               "RelativeDocumentMoniker": "bone_api\\Authentication\\AuthConfig.cs",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "bone_api.csproj",
               "DocumentMoniker": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\bone_api.csproj",
               "RelativeDocumentMoniker": "bone_api\\bone_api.csproj",
@@ -75,19 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\appsettings.json",
               "RelativeDocumentMoniker": "bone_api\\appsettings.json",
               "ToolTip": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\appsettings.json",
               "RelativeToolTip": "bone_api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T11:46:40.568Z"
+              "WhenOpened": "2024-09-26T11:46:40.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "bone_api\\Controllers\\WeatherForecastController.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elhas\\source\\repos\\bone_api\\bone_api\\Program.cs",
               "RelativeDocumentMoniker": "bone_api\\Program.cs",
