@@ -16,6 +16,7 @@ namespace bone_api.Middlewares
                 this.next = next;
             }
 
+
             public async Task InvokeAsync(HttpContext context)
             {
                 var providedApiKey = context.Request.Headers[AuthConfig.ApiKeyHeader].FirstOrDefault();
@@ -23,13 +24,17 @@ namespace bone_api.Middlewares
                 if (!isValid)
                 {
                     await GenerateResponse(context, 401, "Invalid API Key !!");
+                    return;
                 }
+                await next(context);
+
             }
 
             private static async Task GenerateResponse(HttpContext context, int statusCode, string errorMessage)
             {
                 context.Response.StatusCode = statusCode;
                 await context.Response.WriteAsync(errorMessage);
+
             }
             private bool checkValidationApiKey(string providedApiKey)
             {
